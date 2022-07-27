@@ -3,7 +3,7 @@
     <string name="use_search">You could use the search</string>
     <string name="search">Search</string>
     <string name="search_product">Search product</string>
-    <string name="products">Productos</string>
+    <string name="products">Products</string>
     <string name="error_query">Error querying products</string>
     <string name="img_description">Product image</string>
     <string name="text_result">Result for: %1$s </string>

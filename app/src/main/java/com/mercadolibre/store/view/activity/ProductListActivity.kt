@@ -72,7 +72,10 @@ class ProductListActivity : AppCompatActivity(), IResponse {
         })
         service = Service(this)
         if (invoke) {
-            executeService()
+            val newList: ArrayList<Product> =
+                intent.getSerializableExtra("productList") as ArrayList<Product>
+            productList.addAll(newList)
+            refreshProducts()
         }
     }
 
