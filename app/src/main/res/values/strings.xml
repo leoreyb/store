@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="use_search">You could use the search</string>
+    <string name="search">Search</string>
+    <string name="search_product">Search product</string>
+    <string name="products">Productos</string>
+    <string name="error_query">Error querying products</string>
+    <string name="img_description">Product image</string>
+    <string name="text_result">Result for: %1$s </string>
+    <string name="warranty">Warranty</string>
+    <string name="error_load_product">Error loading product information</string>
+</resources>
